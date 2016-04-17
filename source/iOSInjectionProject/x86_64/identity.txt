@@ -1,0 +1,2 @@
+/Users/jovanjovanovic/Library/Developer/Xcode/DerivedData/AppYourGoal360-cdcnfmghwvgmwjeveqobhbwznshu/Build/Products/Debug-iphonesimulator/AppYourGoal360.app
+
