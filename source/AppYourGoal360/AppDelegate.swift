@@ -26,7 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let textAttributes: [String: AnyObject] = [NSFontAttributeName: UIFont(name: "DINBold", size: 15.0)!, NSForegroundColorAttributeName: Constants.kActionBlueColor]
         UINavigationBar.appearance().tintColor = Constants.kActionBlueColor
         UIBarButtonItem.appearance().setTitleTextAttributes(textAttributes, forState: UIControlState.Normal)
-        
+        // Add New Comment
         // Setup Parse
         Parse.setApplicationId("ujkACB1ufkvRRaSlxj1NW2H4g2Y1hPonMKFNmNLw", clientKey:"ZDF2Hi6YwS81tw9U8gagEeMdMFPwb6c39wZTUC24")
         
